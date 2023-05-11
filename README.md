@@ -42,7 +42,7 @@ A list of open source message queue middlewares and MQ cloud services
 
 | Provider  | Product                                                                                             | Middlewares/Services               |
 |-----------|-----------------------------------------------------------------------------------------------------|------------------------------------|
-| Amazon    | Amazon MQ                                                                                           | ActiveMQ,RabbitMQ,SQS(HTTP)        |
+| Amazon    | [Amazon MQ](https://aws.amazon.com/amazon-mq/)                                                      | ActiveMQ,RabbitMQ,SQS(HTTP)        |
 | IBM       | [IBM MQ](https://www.ibm.com/products/mq), [Advanced](https://www.ibm.com/products/mq/advanced)     | IBM MQ                             |
 | Iron      | [Iron MQ](https://www.iron.io/mq)                                                                   | AWS Lambda, Amazon SQS             |
 | Red Hat   | [Red Hat AMQ](https://www.redhat.com/zh/technologies/jboss-middleware/amq)                          | ActiveMQ Artemis                   |
