@@ -77,3 +77,14 @@ A list of open source message queue middlewares and MQ cloud services
 | 中国电子云 | [消息队列](https://cecloud.com/product/7037706926796312576.html)                                      | Kafka,RocketMQ,RabbitMQ            |
 | 新网箭头云 | [RabbitMQ](http://www.xinnet.com/cs/rabbitmq.html)                                                    | RabbitMQ                           |
 | AutoMQ     | [AutoMQ](https://www.automq.com/)                                                                     | Kafka,RocketMQ                     |
+
+## GUI Clients
+
+| Name                                                               | Middlewares                                 | Type                  | License                            |
+|--------------------------------------------------------------------|---------------------------------------------|-----------------------|------------------------------------|
+| [AKHQ](https://akhq.io/)                                           | Kafka                                       | Web                   | Apache-2.0                         |
+| [Kafbat UI](https://github.com/kafbat/kafka-ui)                    | Kafka                                       | Web                   | Apache-2.0                         |
+| [Offset Explorer](https://www.kafkatool.com/)                      | Kafka                                       | Desktop               | Commercial (free for personal use) |
+| [QueueExplorer](https://www.cogin.com/mq/)                         | RabbitMQ, Azure Service Bus, MSMQ, ActiveMQ | Desktop               | Commercial                         |
+| [RabbitGUI](https://rabbitgui.com/)                                | RabbitMQ                                    | Desktop               | Commercial                         |
+| [RabbitMQ Management UI](https://www.rabbitmq.com/docs/management) | RabbitMQ                                    | Web (built-in plugin) | MPL-2.0                            |
