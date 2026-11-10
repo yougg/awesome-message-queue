@@ -90,3 +90,4 @@ A list of open source message queue middlewares and MQ cloud services
 | [QueueExplorer](https://www.cogin.com/mq/)                         | RabbitMQ, Azure Service Bus, MSMQ, ActiveMQ | Desktop               | Commercial                         |
 | [RabbitGUI](https://rabbitgui.com/)                                | RabbitMQ                                    | Desktop               | Commercial                         |
 | [RabbitMQ Management UI](https://www.rabbitmq.com/docs/management) | RabbitMQ                                    | Web (built-in plugin) | MPL-2.0                            |
+| [Rahdar](https://rahdar.dev/)                                      | Artemis, Kafka, RabbitMQ                    | Web                   | Apache-2.0                         |
